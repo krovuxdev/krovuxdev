@@ -14,9 +14,12 @@
 
 ### Skills
 ![arch](https://camo.githubusercontent.com/510f548f5ea93c4ea8564da5f10d234ae30d734bf179a1ea43cd9fac5298dd39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417263685f4c696e75782d3137393344313f7374796c653d666f722d7468652d6261646765266c6f676f3d617263682d6c696e7578266c6f676f436f6c6f723d7768697465)
+![Linux](https://camo.githubusercontent.com/88034950e03b3c109dec93b1e35db0d960bf4fceb748d80a131363bd2336e12e/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6c696e7578)
+![](https://camo.githubusercontent.com/9c44054e182f0a86566d67e0b1ea7e986dfb09379ef8c703df199973e42ccfbd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974)
+![](https://camo.githubusercontent.com/07e4f940b7e6239e342256bca5e95cd0b51406ae1570bba067ce3f1ccc76e350/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d62617368)
 
 ## 💊 I'm wanna learning Rustlang 
-
+![](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <!-- ### Socials                  
 <p align="left"> <a href="https://www.github.com/karimdev96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p> -->
 
