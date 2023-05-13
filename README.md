@@ -1,12 +1,11 @@
 <!-- ![](https://i.imgur.com/dMEjCBP.gif) -->
-![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro)
-# <span align="center">Hi 👋, I'm karimdev96</span>
 
+![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro)
+# <p align="center" text-align="center" style="background:red;"><img src="https://i.imgur.com/ffFepgy.gif?size=800" style="height:40px;border-radius:5px"> Hi 👋, I'm karimdev96 <img src="https://i.imgur.com/ffFepgy.gif?size=800" style="height:40px;border-radius:5px"></p>
 <!-- Development Software & web -->
 <!-- - 🌱 I'm learning currently **ReactJs Astro Svelte** -->
-- 🌱 I'm learning currently ${\color{lightblue}ReactJs \space \color{orange}SvelteJs\space \color{white}AstroJs} $
+- 🌱 I'm learning currently ${\color{lightblue}ReactJs \space \color{orange}SvelteJs\space \color{white}AstroJs}$
 <!-- 🌍🌱 I’m currently learning java, python, javascript html and css ... -->
-
 <!-- ✉️📫 How to reach me with an telegram... -->
 
 # 🤓 I know 
@@ -19,8 +18,8 @@
 ![](https://camo.githubusercontent.com/9c44054e182f0a86566d67e0b1ea7e986dfb09379ef8c703df199973e42ccfbd/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d676974)
 ![](https://camo.githubusercontent.com/07e4f940b7e6239e342256bca5e95cd0b51406ae1570bba067ce3f1ccc76e350/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d62617368)
 
-## 💊 I'm wanna learning Rustlang 
-![](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
+## 💊 I'm wanna learning Rustlang
+![Codear](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <!-- ### Socials                  
 <p align="left"> <a href="https://www.github.com/karimdev96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p> -->
 
