@@ -5,7 +5,7 @@
 - 🌱 I'm currently learning ${\color{lightblue}ReactJs \space \color{orange}SvelteJs\space \color{white}AstroJs}$
 <!-- ✉️📫 How to reach me with an telegram... -->
 
-# 🤓 I know 
+# <img src="https://github.com/karimdev96/karimdev96/blob/main/oqw2m1d7bjna1.gif" style="height:30px;border-radius:5px"> I know 
 - Back-End(Django)
 - Front-end(html,js,css)
 
