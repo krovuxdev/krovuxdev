@@ -12,9 +12,9 @@
 ### Skills
 <!-- ![arch](https://camo.githubusercontent.com/510f548f5ea93c4ea8564da5f10d234ae30d734bf179a1ea43cd9fac5298dd39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417263685f4c696e75782d3137393344313f7374796c653d666f722d7468652d6261646765266c6f676f3d617263682d6c696e7578266c6f676f436f6c6f723d7768697465) -->
 <div>
- <label>x</label>
-<img src="https://skillicons.dev/icons?i=linux,py,django,git,bash,neovim,js,css" />
- 
+<img src="https://github.com/karimdev96/karimdev96/blob/main/Arch.png" style="height:48px;border-radius:5px">
+
+<img src="https://skillicons.dev/icons?i=linux,py,django,bash,neovim,git,js,css" />
 </div>
 
 
