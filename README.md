@@ -1,24 +1,49 @@
-<!-- ![](https://i.imgur.com/dMEjCBP.gif) -->
+<!-- ![](https://i.imgur.com/dMEjCBP.gif) 
 ![](https://github.com/karimdev96/karimdev96/blob/main/chillMario.gif)
+-->
+<img src="https://github.com/karimdev96/karimdev96/blob/main/chillMario.gif" alt="Mario.gif"/>
+
 <!-- ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro) -->
-# <p align="center" text-align="center" style="background:red;"><img src="https://i.imgur.com/ffFepgy.gif?size=800" style="height:40px;border-radius:5px"> Hi 👋, I'm karimdev96 <img src="https://i.imgur.com/ffFepgy.gif?size=800" style="height:40px;border-radius:5px"></p>
+
+<p align="center" text-align="center" style="background:red;">
+<img src="https://i.imgur.com/ffFepgy.gif?size=800" width="40">
+Hi 👋, I'm karimdev96
+<img src="https://i.imgur.com/ffFepgy.gif?size=800" width="42">
+</p>
+
 - 🌱 I'm currently learning ${\color{lightblue}ReactJs \space \color{orange}SvelteJs\space \color{white}AstroJs}$
 <!-- ✉️📫 How to reach me with an telegram... -->
 
-# <img src="https://github.com/karimdev96/karimdev96/blob/main/oqw2m1d7bjna1.gif" style="height:30px;border-radius:5px"> I know 
+<h1>
+<img src="https://github.com/karimdev96/karimdev96/blob/main/oqw2m1d7bjna1.gif" width="35" style="border-radius:5px;"> I know 
+</h1>
+
 - Back-End(Django)
 - Front-end(html,js,css)
 
-### Skills
-<!-- ![arch](https://camo.githubusercontent.com/510f548f5ea93c4ea8564da5f10d234ae30d734bf179a1ea43cd9fac5298dd39/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f417263685f4c696e75782d3137393344313f7374796c653d666f722d7468652d6261646765266c6f676f3d617263682d6c696e7578266c6f676f436f6c6f723d7768697465) -->
-<div>
-<img src="https://github.com/karimdev96/karimdev96/blob/main/Arch.png" style="height:48px;border-radius:5px">
 
-<img src="https://skillicons.dev/icons?i=linux,py,django,bash,neovim,git,js,css" />
+<h3 align=center>Languages</h3>
+<p align=center>
+<img width="42" src="https://img.icons8.com/material-outlined/384/498fe1/arch-linux.png" alt="arch-linux"/>
+<img width="42" src="https://img.icons8.com/sf-ultralight/100/fa314a/console.png" alt="console"/>
+<img width="42" src="https://img.icons8.com/ios-filled/384/498fe1/python.png" alt="python"/>
+<img width="42" src="https://img.icons8.com/ios-filled/384/fa314a/git.png" alt="git"/>
+<img width="42" src="https://img.icons8.com/ios-filled/384/498fe1/javascript.png" alt="javascript"/>
+<img width="42" src="https://img.icons8.com/small/384/fa314a/bash.png" alt="bash"/>
+ <img width="42" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/96/498fe1/external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-bold-tal-revivo.png" alt="external-django-a-high-level-python-web-framework-that-encourages-rapid-development-logo-bold-tal-revivo"/>
+ <img width="42"  src="https://img.icons8.com/glyph-neue/64/fa314a/crab.png" alt="crab"/>
+ <img width="42" src="https://img.icons8.com/ios-filled/384/498fe1/css3.png" alt="css3"/>
+ <img width="42" src="https://img.icons8.com/ios-filled/384/fa314a/html-5--v1.png" alt="html-5--v1"/>
+ <img width="42" src="https://img.icons8.com/ios-filled/384/498fe1/lua-language.png" alt="lua-language"/>
+</p>
+
+<h3 align=center>Skills</h3>
+<div align =center>
+<img src="https://skillicons.dev/icons?i=linux,neovim" />
 </div>
 
+<h3 align=center>💊 wanna learn Rustlang</h3>
 
-## 💊 wanna learn Rustlang
 ![Codear](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <!-- ### Socials                  
 <p align="left"> <a href="https://www.github.com/karimdev96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p> -->
