@@ -7,7 +7,7 @@
 
 <p align="center" text-align="center" style="background:red;">
 <img src="https://i.imgur.com/ffFepgy.gif?size=800" width="40">
-Hi 👋, I'm karimdev96
+Hi 👋, I'm krovuxdev
 <img src="https://i.imgur.com/ffFepgy.gif?size=800" width="42">
 </p>
 
