@@ -20,7 +20,7 @@ Hi 👋, I'm krovuxdev
 <img src="https://i.imgur.com/ffFepgy.gif?size=800" width="42">
 </p>
 
-- 🌱 I'm currently learning ${\color{lightblue}ReactJs \space \color{orange}SvelteJs\space \color{white}AstroJs}$
+- 🌱 I'm currently learning ${\color{lightblue}ReactJs \space \color{orange}SvelteJs\space \color{red}AstroJs}$
 <!-- ✉️📫 How to reach me with an telegram... -->
 
 <h1>
