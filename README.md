@@ -62,14 +62,27 @@
 <img src="https://skillicons.dev/icons?i=linux,neovim" />
 <img src="https://github.com/krovuxdev/krovuxdev/assets/62192487/8511b5c1-f389-4539-9696-8ee0add04bc0">
 </div>
-<br>
-<br>
-<br>
-<br>
+
 <br>
 <h3 align=center>💊 wanna learn Rustlang</h3>
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="370" style="border-radius:5px;">
+<!--<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="370" style="border-radius:5px;">
+-->
 
+```rs
+pub struct Iter;
+static mut COUNT: u8 = 0;
+impl Iterator for Iter {
+    type Item = u8;
+    fn next(&mut self) -> Option<Self::Item> {
+        unsafe {
+            match COUNT {
+                0..=15 => {COUNT+=1; Some(COUNT)},
+                _ => None,
+            }}
+    }
+}
+fn main() {Iter.for_each(|_| println!{"Hello, World"})}
+```
 <!-- ### Socials                  
 <p align="left"> <a href="https://www.github.com/karimdev96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p> -->
 
