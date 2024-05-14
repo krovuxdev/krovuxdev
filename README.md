@@ -9,8 +9,9 @@
 <img  src="https://github.com/krovuxdev/krovuxdev/assets/62192487/6e242a3a-d5c8-458c-9292-0fe308326349" width="800" alt="png" />
 </p>
 -->
-
+<!--
 <img src="https://github.com/karimdev96/karimdev96/blob/main/chillMario.gif" alt="Mario.gif"/>
+-->
 <!-- ![](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGZyZWRnNS0wYTYwZTg3NS02NDZlLTRkNmMtYmI5MS03MzA4NmYwMTI4MDguZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.LGN_eGL7dT0xRj4oRbyRRVay-pHbyiXHru7YoVPcRro) -->
 <!-- 
 <p align="center" text-align="center" style="background:red;">
@@ -23,18 +24,24 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=AADDF7&random=false&width=1015&lines=I'm+krovuxdev;In+every+line+of+code%2C++a+Rustacean+finds+poetry+in+precision+and+beauty+in+efficiency.)](https://git.io/typing-svg)
 
+
+<img src="https://github.com/krovuxdev/krovuxdev/assets/62192487/fa3dc7c1-975d-4c2c-85cf-898dbc601cd9" alt="img" align="right" width="440px">
+
+
 - 🌱 I'm currently learning ${\color{lightblue}ReactJs \space \color{orange}SvelteJs\space \color{red}AstroJs}$
 
-<!-- ✉️📫 How to reach me with an telegram... -->
 
-<h1>
-<img src="https://github.com/karimdev96/karimdev96/blob/main/oqw2m1d7bjna1.gif" width="35" style="border-radius:5px;"> I know 
-</h1>
-
-- Back-End(Django)
-- Front-end(html,js,css)
+<!-- -->
 
 
+
+<!--<h2><img src="https://github.com/karimdev96/karimdev96/blob/main/oqw2m1d7bjna1.gif" width="35" style="border-radius:5px;"> I know 
+ <li>Back-End(Django)</li>
+ <li>Front-end(html,js,css)</li>
+ <h2/>
+-->
+
+<br>
 <h3 align=center>Languages</h3>
 <p align=center>
 <img width="42" src="https://img.icons8.com/material-outlined/384/498fe1/arch-linux.png" alt="arch-linux"/>
@@ -49,15 +56,17 @@
  <img width="42" src="https://img.icons8.com/ios-filled/384/fa314a/html-5--v1.png" alt="html-5--v1"/>
  <img width="42" src="https://img.icons8.com/ios-filled/384/498fe1/lua-language.png" alt="lua-language"/>
 </p>
-
+<br><br>
 <h3 align=center>Skills</h3>
 <div align =center>
 <img src="https://skillicons.dev/icons?i=linux,neovim" />
 </div>
-
+<br>
+<br>
+<br>
 <h3 align=center>💊 wanna learn Rustlang</h3>
+<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="530" style="border-radius:5px;">
 
-![Codear](https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif)
 <!-- ### Socials                  
 <p align="left"> <a href="https://www.github.com/karimdev96" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a></p> -->
 
