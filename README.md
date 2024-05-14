@@ -60,6 +60,7 @@
 <h3 align=center>Skills</h3>
 <div align =center>
 <img src="https://skillicons.dev/icons?i=linux,neovim" />
+<img src="https://github.com/krovuxdev/krovuxdev/assets/62192487/8511b5c1-f389-4539-9696-8ee0add04bc0">
 </div>
 <br>
 <br>
