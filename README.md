@@ -95,3 +95,5 @@ fn main() {
  -->
 
 
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 340vh; opacity: 0.1; background: url('https://github.com/krovuxdev/krovuxdev/assets/62192487/54b3b270-2e2d-49a1-abc3-4bf5b5393ebe?raw=true');]{x0000}$}
