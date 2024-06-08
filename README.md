@@ -94,6 +94,3 @@ fn main() {
 <div width="100%" align="center"><a href="https://github.com/karimdev96/changevolume" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimdev96&repo=changevolume&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karimdev96/triqui" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimdev96&repo=triqui&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
  -->
 
-
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 340vh; opacity: 0.1; background: url('https://github.com/krovuxdev/krovuxdev/assets/62192487/54b3b270-2e2d-49a1-abc3-4bf5b5393ebe?raw=true');]{x0000}$}
