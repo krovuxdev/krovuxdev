@@ -93,3 +93,7 @@ fn main() {
 <br><br><br><br><br><br>
 <div width="100%" align="center"><a href="https://github.com/karimdev96/changevolume" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimdev96&repo=changevolume&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/karimdev96/triqui" align="right"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=karimdev96&repo=triqui&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div>
  -->
+
+<details ><summary>👀</summary>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=krovuxdev&style=for-the-badge&labelColor=212A3E&color=15181a" alt="krovuxdev" /> </p>
+</details>
